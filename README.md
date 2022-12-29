@@ -6,9 +6,9 @@ SMOL USED POPULATION OF MALAYSIA DATASET FROM 2010-2019
 
 <h1 align="center">
   <br>
-  <a img src="[logo.png]" alt="SMOL" width="200"></a>
+  <a img src="[[logo.png](https://github.com/DinieHazim/EDA/blob/main/logo.png)]" alt="SMOL" width="200"></a>
   <br>
-  Markdownify
+  SMOL
   <br>
 </h1>
 
